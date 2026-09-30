@@ -1,0 +1,20 @@
+### Maven ###
+target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### Operating systems ###
+.DS_Store
+Thumbs.db
